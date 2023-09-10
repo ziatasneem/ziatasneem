@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JAVA, MySQL . . .**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/ziatasneem)
+- 👨‍💻 All of my projects are available [here](https://github.com/ziatasneem)
 
 - 💬 Ask me about **C, C++.**
 
