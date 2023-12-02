@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working to **improve myself.**
 
-- 🌱 I’m currently learning **JS, MySQL . . .**
+- 🌱 I’m currently learning **JS . . .**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ziatasneem)
 
