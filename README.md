@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ziatasneem)
 
-- 💬 Ask me about **C, C++.**
+- 💬 Ask me about **SQL, Oracle Apps, Java.**
 
 - ⚡ Fun fact **I think I am funny XD**
 
